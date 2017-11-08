@@ -37,11 +37,16 @@ print(type(np_baseball))
 #%% 11.08.2017
 
 import numpy as np
+import pandas as pd
 
 # build a vector containing an arithmetic progression
 np.arange(10)
 
+# create a data frame and specify the column names
+df = pd.DataFrame({"pear": [1,2,3], "apple": [2,3,4], "orange": [3,4,5]})
+df
 
+len(df.columns) # count the number of columns
 
 
 
