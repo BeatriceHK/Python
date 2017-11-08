@@ -72,6 +72,3 @@ len(df.columns) # count the number of columns
 
 
 
-
-
-
