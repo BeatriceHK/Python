@@ -35,3 +35,38 @@ np_baseball = np.array(baseball)
 print(type(np_baseball))
 
 #%% 11.08.2017
+
+import numpy as np
+
+# build a vector containing an arithmetic progression
+np.arange(10)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
