@@ -1,9 +1,11 @@
 Python notes:
 
-1. "script" package for using python in atom.
+1. "script" package for using python in atom
 
-2. run python script in atom: ctrl+enter.
+2. run python script in atom: ctrl+enter
 
-3. "linter-flake8" package highlights the errors in the code.
+3. "linter-flake8" package highlights the errors in the code
 
 4. comment out code: ctrl+/
+
+5. open jupyter notebook in terminal: 'jupyter notebook'
