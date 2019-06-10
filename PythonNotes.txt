@@ -9,3 +9,17 @@ Python notes:
 4. comment out code: ctrl+/
 
 5. open jupyter notebook in terminal: 'jupyter notebook'
+
+
+3rd Jun. 2019
+1. insert cell above and below in Jupyter Notebook: A / B.
+
+
+8th Jun. 2019
+1. 'x << y' = x*(2^y); 'x >> y' = x/(2^y).
+
+
+10th Jun. 2019
+1. indent and unindent in Spyder: 
+	- indent: Tab
+	- unindent: Shift + Tab
