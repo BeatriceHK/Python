@@ -23,3 +23,12 @@ Python notes:
 1. indent and unindent in Spyder: 
 	- indent: Tab
 	- unindent: Shift + Tab
+
+
+Jupyter notes:
+
+19th Jun. 2019
+1. keyboard shortcut customization: Help --> Edit keyboard shortcuts
+
+
+
