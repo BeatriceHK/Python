@@ -25,6 +25,11 @@ Python notes:
 	- unindent: Shift + Tab
 
 
+23rd Jun. 2019
+1. can't find model 'en':
+	- python3 -m spacy download en
+
+
 Jupyter notes:
 
 19th Jun. 2019
