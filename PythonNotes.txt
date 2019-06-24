@@ -36,4 +36,7 @@ Jupyter notes:
 1. keyboard shortcut customization: Help --> Edit keyboard shortcuts
 
 
+24th Jun. 2019
+1. save all variables in the workspace: https://stackoverflow.com/questions/2960864/how-can-i-save-all-the-variables-in-the-current-python-session/35296032
+
 
