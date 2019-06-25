@@ -40,3 +40,5 @@ Jupyter notes:
 1. save all variables in the workspace: https://stackoverflow.com/questions/2960864/how-can-i-save-all-the-variables-in-the-current-python-session/35296032
 
 
+25th Jun. 2019
+1. clear all names and objects: https://stackoverflow.com/questions/3543833/how-do-i-clear-all-variables-in-the-middle-of-a-python-script 
