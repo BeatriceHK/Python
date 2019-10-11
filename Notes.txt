@@ -42,3 +42,10 @@ Jupyter notes:
 
 25th Jun. 2019
 1. clear all names and objects: https://stackoverflow.com/questions/3543833/how-do-i-clear-all-variables-in-the-middle-of-a-python-script 
+
+
+11th Oct. 2019
+1. cast input from stdin as double:
+	input_double = float(input())
+
+
